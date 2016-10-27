@@ -4,7 +4,7 @@
   "description": "redelec",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron main.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alecannetdesdame/redelec/issues"
   },
-  "homepage": "https://github.com/alecannetdesdame/redelec#readme"
+  "homepage": "https://github.com/alecannetdesdame/redelec#readme",
+  "devDependencies": {
+    "electron": "^1.4.4"
+  }
 }
