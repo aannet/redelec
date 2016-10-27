@@ -1,0 +1,19 @@
+{
+  "name": "redelec",
+  "version": "0.0.1",
+  "description": "redelec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecannetdesdame/redelec.git"
+  },
+  "author": "Alec ANNET-DESDAME",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alecannetdesdame/redelec/issues"
+  },
+  "homepage": "https://github.com/alecannetdesdame/redelec#readme"
+}
