@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alecannetdesdame/redelec#readme",
   "devDependencies": {
-    "electron": "^1.4.4"
+    "electron": "^1.4.4",
+    "node-redmine": "^0.1.3"
   }
 }
