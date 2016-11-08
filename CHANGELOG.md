@@ -3,7 +3,9 @@
 *08/11/2016*
 
 * NPM Redmine dependency added
-* changelog added
+* Changelog created
+* assets directory structure
+
 
 ## 0.0.1
 * Project initialisation and first tutorials
