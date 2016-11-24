@@ -153,6 +153,9 @@ Session.vim
 gulp/node_modules/
 .nb-gradle/
 
-### MYAPP ###
-node_modules/
+### NPM ###
+node_modules
+out
+npm-debug.log
+
 
