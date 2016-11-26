@@ -1,10 +1,8 @@
-import React from 'react';
+import React        from 'react';
 
 /**
  *
- * @param props
- * @returns {XML}
- * @constructor
+ * ITEM T odo
  */
 export function Todo(props) {
     const { todo } = props;
@@ -18,14 +16,10 @@ export function Todo(props) {
 
 /**
  *
- * @param props
- * @returns {XML}
- * @constructor
+ * Item T odoList
  */
 export function TodoList(props) {
     const { todos } = props;
-
-    alert('toto');
 
     return (
       <div className="todo">
@@ -36,7 +30,7 @@ export function TodoList(props) {
                       <li key={t.id} className="todo__item">
                           <Todo todo={t} />
                       </li>
-                  ))
+                    ))
               }
           </ul>
       </div>

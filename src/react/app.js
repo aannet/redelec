@@ -1,6 +1,10 @@
-import React from 'react';
-import {render} from 'react-dom';
-import {TodoList} from './components';
+import React            from 'react';
+import {render}         from 'react-dom';
+
+import {TodoList}       from './components';
+
+
+// const store = createStore(reducer);
 
 const dummyTodos = [
     { id: 0, isDone: true,  text: 'make components' },
@@ -9,8 +13,8 @@ const dummyTodos = [
     { id: 3, isDone: false, text: 'connect components' }
 ];
 
-
+/*
 render (
   <TodoList todos={dummyTodos} />,
     document.getElementById('app')
-);
+);*/

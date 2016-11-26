@@ -17,4 +17,6 @@ npm update -D
 ##REACT
 https://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/
 
+Reducer : funcrion wich takes a state and an action
+
 

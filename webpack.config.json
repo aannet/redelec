@@ -1,0 +1,12 @@
+{
+  "entry": "./src/react/app.js",
+  "output": {
+    "path": "./src/",
+    "filename": "dist.js"
+  },
+  "target": "electron",
+  "externals": {
+      "react": "React",
+      "react-dom": "ReactDOM"
+  }
+}
